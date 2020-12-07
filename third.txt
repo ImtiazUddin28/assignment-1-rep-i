@@ -1,1 +1,2 @@
 This is my third txt file in this project.I really feel very amazing in this tutorial.
+Now I am trying to one commit in file together this is third file.
