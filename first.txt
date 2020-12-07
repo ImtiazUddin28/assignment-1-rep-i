@@ -1,1 +1,2 @@
 This is my first git project.I am very exciting to learn about git and github.
+Wow! I have done my first commit successfully.Now I am going to try second one.
